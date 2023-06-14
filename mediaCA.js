@@ -14,4 +14,4 @@ function mediaCA(media) {
       }
 }
 
-exports.mediaCA = mediaCA
+module.exports = mediaCA;
